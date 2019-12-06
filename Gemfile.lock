@@ -146,7 +146,7 @@ GEM
       terrapin (~> 0.6.0)
     paranoia (2.4.1)
       activerecord (>= 4.0, < 5.3)
-    puma (3.12.1)
+    puma (3.12.2)
     rack (2.0.7)
     rack-cors (1.0.6)
       rack (>= 1.6.0)
@@ -298,7 +298,7 @@ PLATFORMS
 DEPENDENCIES
   byebug
   listen (>= 3.0.5, < 3.2)
-  puma (~> 3.7)
+  puma (~> 3.12)
   rack-cors
   rails (~> 5.1.6)
   solidus
